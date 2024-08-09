@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shibang.das.mec20@itbhu.ac.in**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16LcpPY_q-jv7vC4gkqqWTLAUvJDrIR0k/view?usp=sharing](https://drive.google.com/file/d/16LcpPY_q-jv7vC4gkqqWTLAUvJDrIR0k/view?usp=sharing)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I love playing Chess!**
 
