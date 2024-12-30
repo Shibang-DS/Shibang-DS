@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shibang-ds" alt="shibang-ds" /></a> </p>
 
-- 🔭 I’m currently working on **IT Solutions Website(MERN)**
+- 🔭 I’m currently working on **Real time Chess Application**
 
-- 🌱 I’m currently learning **AWS, Neural Networks**
+- 🌱 I’m currently learning **LLD**
 
 - 👨‍💻 All of my projects are available at [https://shibang-portfolio.netlify.app/](https://shibang-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, Node, MongoDB**
+- 💬 Ask me about **React, Node, MongoDB, Web Socket Connections**
 
 - 📫 How to reach me **shibang.das.mec20@itbhu.ac.in**
 
