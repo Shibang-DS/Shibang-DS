@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/shibang_das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shibang_das" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shibang-das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shibang-das" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/shibang_ds/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shibang_ds/?hl=en" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/shibang_ds/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[https://www.instagram.com/shibang_ds/?hl=en](https://www.instagram.com/shibang_ds/)" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shibangds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shibangds" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shibang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shibang" height="30" width="40" /></a>
 </p>
