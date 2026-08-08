@@ -13,6 +13,13 @@
 
 ---
 
+<p align="center">
+  <!-- Custom Contribution Bar (15 squares, latest on the right) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shibang-DS&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
 ## 🚀 About Me
 - 🎓 BTech + MTech in Mechanical Engineering from **IIT (BHU), Varanasi** (CPI: 8.41)
 - 💼 Currently working as **Backend Developer at Joveo**
